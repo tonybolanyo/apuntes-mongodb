@@ -1,6 +1,6 @@
 ## El shell: mongo
 
-Una vez activado el servicio de mongodb (```mongod```) ya estamos listos para conectar al servidor. Para ello la instalación proporciona un shell para ineractuar con nuestro servicio. Como ya está en el path basta con abrir una nueva ventana de la consola y ejecutar el comando
+Una vez activado el servicio de mongodb (```mongod```) ya estamos listos para conectar al servidor. Para ello la instalación proporciona un shell para interactuar con nuestro servicio. Como ya está en el path basta con abrir una nueva ventana de la consola y ejecutar el comando
 
 ```bash
 mongo
